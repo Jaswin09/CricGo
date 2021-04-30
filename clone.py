@@ -4,7 +4,7 @@ import discord
 from dotenv import load_dotenv
 import random
 
-TOKEN = 'ODM3MTgyNTcwODY0NDQzMzky.YIo1Bg.cgsWXN_orif2AuaN0_PhNv7mDZY'
+TOKEN = 'ODM3MTgyNTcwODY0NDQzMzky.YIo1Bg.ax9Vnp3yX9vXEvLBtRznJn92t7Q'
 
 client = discord.Client()
 
